@@ -790,6 +790,13 @@
             "name": "圆梦村落雪",
             "mapNames": ["圆梦村"],
             "candlelight": 400,
+            "limit":{
+              "type": "date_same_after",
+              "date": "2022.1.14",
+              "role": {
+                "appearIn": [5,6,7]
+              }
+            },
             "desc": "2022.1.14开始，只有五六日奇数小时前15分钟有"
         }
     ],
@@ -797,6 +804,7 @@
       "name": "宴会节篝火",
       "candlelight": 1000,
       "type": "candlelightHarvestPoint",
-      "desc": "4秒/滴，需要66分40秒挂满"
+      "desc": "4秒/滴，需要66分40秒挂满",
+      "dateBetween": ["2022-12-24","2023-1-13"]
     }]
 }
