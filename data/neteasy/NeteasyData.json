@@ -1,5 +1,5 @@
 {
-    "version":"1.0.1",
+    "version":"1.1.1",
     "candlelightType": {
         "普通蜡烛": 1, "普通黑暗植物": 2,
         "大蜡烛": 3, "多人合作黑暗植物": 4,
@@ -807,6 +807,5 @@
       "type": "candlelightHarvestPoint",
       "desc": "4秒/滴，需要66分40秒挂满",
       "dateBetween": ["2022-12-24","2023-1-13"]
-    }],
-  "aesKey": "jianjianghui"
+    }]
 }

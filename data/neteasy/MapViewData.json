@@ -9,7 +9,6 @@
     },
     "default": {
         "defaultType": "un_support",
-        "button": {},
         "un_support": {
             "tag": "success",
             "title": "提示",
