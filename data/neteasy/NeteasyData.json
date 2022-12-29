@@ -794,7 +794,7 @@
             "limit":{
               "type": "date_same_after",
               "date": "2022-01-14",
-              "role": {
+              "rule": {
                 "appearIn": [5,6,7]
               }
             },
