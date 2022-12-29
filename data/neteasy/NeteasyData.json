@@ -803,9 +803,11 @@
     ],
     "activities": [{
       "name": "宴会节篝火",
+      "mapName": "遇境大厅",
       "candlelight": 1000,
       "type": "candlelightHarvestPoint",
       "desc": "4秒/滴，需要66分40秒挂满",
+      "minute": 67,
       "dateBetween": ["2022-12-24","2023-01-13"]
     }]
 }
