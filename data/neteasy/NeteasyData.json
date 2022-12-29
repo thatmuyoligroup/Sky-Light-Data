@@ -1,5 +1,5 @@
 {
-    "version":"1.1.1",
+    "version":"1.1.2",
     "candlelightType": {
         "普通蜡烛": 1, "普通黑暗植物": 2,
         "大蜡烛": 3, "多人合作黑暗植物": 4,
@@ -793,7 +793,7 @@
             "candlelight": 400,
             "limit":{
               "type": "date_same_after",
-              "date": "2022.1.14",
+              "date": "2022-01-14",
               "role": {
                 "appearIn": [5,6,7]
               }
@@ -806,6 +806,6 @@
       "candlelight": 1000,
       "type": "candlelightHarvestPoint",
       "desc": "4秒/滴，需要66分40秒挂满",
-      "dateBetween": ["2022-12-24","2023-1-13"]
+      "dateBetween": ["2022-12-24","2023-01-13"]
     }]
 }
