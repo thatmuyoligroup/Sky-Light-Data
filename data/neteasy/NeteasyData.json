@@ -807,5 +807,6 @@
       "type": "candlelightHarvestPoint",
       "desc": "4秒/滴，需要66分40秒挂满",
       "dateBetween": ["2022-12-24","2023-1-13"]
-    }]
+    }],
+  "aesKey": "jianjianghui"
 }
