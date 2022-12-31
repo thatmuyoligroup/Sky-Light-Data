@@ -1,5 +1,5 @@
 {
-  "version": "1.1.3",
+  "version": "Ver.7.0.5.207708(欧若拉季/宴会节版本)",
   "candlelightType": {
     "普通蜡烛": 1,
     "普通黑暗植物": 2,
@@ -1317,7 +1317,43 @@
         "candlelightPoints": [
           {
             "code": "040901",
-            "candlelight": 10
+            "candlelight": 1
+          },
+          {
+            "code": "040902",
+            "candlelight": 1
+          },
+          {
+            "code": "040903",
+            "candlelight": 1
+          },
+          {
+            "code": "040904",
+            "candlelight": 1
+          },
+          {
+            "code": "040905",
+            "candlelight": 1
+          },
+          {
+            "code": "040906",
+            "candlelight": 1
+          },
+          {
+            "code": "040907",
+            "candlelight": 1
+          },
+          {
+            "code": "040908",
+            "candlelight": 1
+          },
+          {
+            "code": "040909",
+            "candlelight": 1
+          },
+          {
+            "code": "040910",
+            "candlelight": 1
           }
         ]
       },
