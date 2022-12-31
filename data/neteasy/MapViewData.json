@@ -812,7 +812,7 @@
       "content": "${name}有${size}烛火点共${candlelight}烛火！ 位置相近，无需单独选择烛火点"
     },
     "蝴蝶平原": {
-      "img": "https://sky-res.muyoli.com/images/maps/云野/small/云野-蝴蝶平原.png",
+      "img": "https://sky-res.muyoli.com/images/maps/云野/small/云野-蝴蝶平原.jpg",
       "type": "gis",
       "points": [
         {
