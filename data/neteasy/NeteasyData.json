@@ -1,4 +1,5 @@
 {
+  "version": "Ver.12.1.0",
   "candlelightType": {
     "普通蜡烛": 1,
     "普通黑暗植物": 2,
@@ -88,12 +89,31 @@
       {
         "name": "云巢",
         "candlelightPoints": [
-          {"code": "000201", "candlelight": 3},
-          {"code": "000202", "candlelight": 4},
-          {"code": "000203", "candlelight": 4},
-          {"code": "000204", "candlelight": 4},
-          {"code": "000205", "candlelight": 4},
-          {"code": "000206", "candlelight": 4}]
+          {
+            "code": "000201",
+            "candlelight": 3
+          },
+          {
+            "code": "000202",
+            "candlelight": 4
+          },
+          {
+            "code": "000203",
+            "candlelight": 4
+          },
+          {
+            "code": "000204",
+            "candlelight": 4
+          },
+          {
+            "code": "000205",
+            "candlelight": 4
+          },
+          {
+            "code": "000206",
+            "candlelight": 4
+          }
+        ]
       }
     ],
     "晨岛": [
@@ -146,7 +166,10 @@
             "candlelight": 15,
             "desc": "预言山谷洞口的烛火"
           },
-          {"code": "010109", "candlelight": 17}
+          {
+            "code": "010109",
+            "candlelight": 17
+          }
         ]
       },
       {
@@ -1950,16 +1973,46 @@
       {
         "name": "月牙绿洲",
         "candlelightPoints": [
-          {"code": "061101", "candlelight": 1},
-          {"code": "061102", "candlelight": 39},
-          {"code": "061103", "candlelight": 30},
-          {"code": "061104", "candlelight": 24},
-          {"code": "061105", "candlelight": 54},
-          {"code": "061106", "candlelight": 45},
-          {"code": "061107", "candlelight": 42},
-          {"code": "061108", "candlelight": 5},
-          {"code": "061109", "candlelight": 18},
-          {"code": "061110", "candlelight": 18}
+          {
+            "code": "061101",
+            "candlelight": 1
+          },
+          {
+            "code": "061102",
+            "candlelight": 39
+          },
+          {
+            "code": "061103",
+            "candlelight": 30
+          },
+          {
+            "code": "061104",
+            "candlelight": 24
+          },
+          {
+            "code": "061105",
+            "candlelight": 54
+          },
+          {
+            "code": "061106",
+            "candlelight": 45
+          },
+          {
+            "code": "061107",
+            "candlelight": 42
+          },
+          {
+            "code": "061108",
+            "candlelight": 5
+          },
+          {
+            "code": "061109",
+            "candlelight": 18
+          },
+          {
+            "code": "061110",
+            "candlelight": 18
+          }
         ]
       },
       {
