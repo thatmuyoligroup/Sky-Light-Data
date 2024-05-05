@@ -91,26 +91,38 @@
         "candlelightPoints": [
           {
             "code": "000201",
-            "candlelight": 3
+            "candlelight": 2
           },
           {
             "code": "000202",
-            "candlelight": 4
+            "candlelight": 3
           },
           {
             "code": "000203",
-            "candlelight": 4
+            "candlelight": 3
           },
           {
             "code": "000204",
-            "candlelight": 4
+            "candlelight": 3
           },
           {
             "code": "000205",
-            "candlelight": 4
+            "candlelight": 3
           },
           {
             "code": "000206",
+            "candlelight": 2
+          },
+          {
+            "code": "000207",
+            "candlelight": 3
+          },
+          {
+            "code": "000208",
+            "candlelight": 50
+          },
+          {
+            "code": "000209",
             "candlelight": 4
           }
         ]
@@ -2012,6 +2024,10 @@
           {
             "code": "061110",
             "candlelight": 18
+          },
+          {
+            "code": "061111",
+            "candlelight": 1
           }
         ]
       },
